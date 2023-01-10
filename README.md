@@ -1,5 +1,7 @@
 # Ludo
 We created a game called Ludo in python programing language that uses local server communication to allow for up to 4 players in one session.
+[![](https://github.com/dandub03/Ludo/blob/a4a56d667136ae40415da22200953d467405b1ce/image/map1.png)]
+(https://github.com/dandub03/Ludo/blob/a4a56d667136ae40415da22200953d467405b1ce/image/map1.png)
 # How to run
 1.Download necessary library: py install pygame
 
