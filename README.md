@@ -5,8 +5,8 @@ We created a game called Ludo in python programing language that uses local serv
 
 2.Change IP in server.py and games.py to your local IP adress
 
-3.Run server
+3.Run server.py
 
-4.Run 4 clients
+4.Run 4 clients by running games.py four times
 # How it works?
 The game logic happens in client application, after making move client sends current position to the server, and receives positions of other players from server. The turn ends after the player throws the dice.
