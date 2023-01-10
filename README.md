@@ -1,10 +1,12 @@
 # Ludo
 We created a game called Ludo in python programing language that uses local server communication to allow for up to 4 players in one session.
 # How to run
-1.Change IP in server.py and games.py to your local IP adress
+1.Download necessary library: py install pygame
 
-2.Run server
+2.Change IP in server.py and games.py to your local IP adress
 
-3.Run 4 clients
+3.Run server
+
+4.Run 4 clients
 # How it works?
 The game logic happens in client application, after making move client sends current position to the server, and receives positions of other players from server. The turn ends after the player throws the dice.
